@@ -1,0 +1,7 @@
+C:\Users\Владислав\Desktop\HOMEWORK №10\Тумаков\Задачи\bin\Debug\Задачи.exe.config
+C:\Users\Владислав\Desktop\HOMEWORK №10\Тумаков\Задачи\bin\Debug\Задачи.exe
+C:\Users\Владислав\Desktop\HOMEWORK №10\Тумаков\Задачи\bin\Debug\Задачи.pdb
+C:\Users\Владислав\Desktop\HOMEWORK №10\Тумаков\Задачи\obj\Debug\Задачи.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\HOMEWORK №10\Тумаков\Задачи\obj\Debug\Задачи.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\HOMEWORK №10\Тумаков\Задачи\obj\Debug\Задачи.exe
+C:\Users\Владислав\Desktop\HOMEWORK №10\Тумаков\Задачи\obj\Debug\Задачи.pdb
